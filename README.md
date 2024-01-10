@@ -1,4 +1,9 @@
-# VSL Viagens 
+
+<p align="center">
+  <img src="frontend/vsl-viagens/public/logo.png" alt="Descrição da Imagem" width="200">
+</p>
+
+# VSL Viagens - Página Única de Destinos
 
 **Sumário:**
 
@@ -29,7 +34,7 @@ git clone https://github.com/seu-usuario/vslviagens-frontend.git
 Dotnet run
 ```
 
-### Frontend (Next.js)
+### Frontend (Next)
 1. Instale as dependências
   ```
 npm install
@@ -38,10 +43,12 @@ npm install
   ```
 npm run dev
 ```   
-5. Acesse a aplicação em [http://localhost:3000]
+3. Acesse a aplicação em [http://localhost:3000]
 
 ## 3. Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir pull requests para melhorias no frontend, backend ou enviar sugestões para o email mariaeduarda.s.dourado@gmail.com.
+
+
 
 
