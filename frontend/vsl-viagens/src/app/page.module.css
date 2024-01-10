@@ -1,0 +1,34 @@
+
+.main {
+    padding: 0 80px;
+}
+
+@keyframes expandLine {
+    0% {
+      width: 0;
+    }
+    100% {
+      width: 100%;
+    }
+  }
+  
+  .main .titulo_sessao {
+    position: relative;
+    font-size: 30px; 
+    display: inline-block;
+    padding-right: 10px; 
+    margin-bottom: 20px;
+    font-weight: 600;
+  }
+  
+  .titulo_sessao::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 100%;
+    height: 2px; 
+    background-color: rgb(18, 16, 14);
+    animation: expandLine 2s linear infinite; 
+  }
+  

@@ -1,0 +1,318 @@
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\appsettings.Development.json
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\appsettings.json
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\destinos.exe
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\destinos.deps.json
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\destinos.runtimeconfig.json
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\destinos.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\destinos.pdb
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\destinos.csproj.AssemblyReference.cache
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\destinos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\destinos.AssemblyInfoInputs.cache
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\destinos.AssemblyInfo.cs
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\destinos.csproj.CoreCompileInputs.cache
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\destinos.MvcApplicationPartsAssemblyInfo.cs
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\destinos.MvcApplicationPartsAssemblyInfo.cache
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\destinos.sourcelink.json
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\staticwebassets.build.json
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\staticwebassets.development.json
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\staticwebassets\msbuild.destinos.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\staticwebassets\msbuild.build.destinos.props
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.destinos.props
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.destinos.props
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\scopedcss\bundle\destinos.styles.css
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\destinos.csproj.CopyComplete
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\destinos.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\refint\destinos.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\destinos.pdb
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\destinos.genruntimeconfig.cache
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\obj\Debug\net8.0\ref\destinos.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Humanizer.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\MySqlConnector.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\System.CodeDom.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Study\Cursos de Formação\Recode_Pro\Projetos\Individual\api-viagens-c#\destinos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\appsettings.Development.json
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\appsettings.json
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\destinos.exe
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\destinos.deps.json
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\destinos.runtimeconfig.json
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\destinos.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\destinos.pdb
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Humanizer.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\MySqlConnector.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\System.CodeDom.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.csproj.AssemblyReference.cache
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.AssemblyInfoInputs.cache
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.AssemblyInfo.cs
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.csproj.CoreCompileInputs.cache
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.MvcApplicationPartsAssemblyInfo.cs
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.MvcApplicationPartsAssemblyInfo.cache
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.sourcelink.json
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets.build.json
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets.development.json
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets\msbuild.destinos.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets\msbuild.build.destinos.props
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.destinos.props
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.destinos.props
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\scopedcss\bundle\destinos.styles.css
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.csproj.CopyComplete
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\refint\destinos.dll
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.pdb
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.genruntimeconfig.cache
+D:\Meu_Cantinho\Projetos\VSL_VIAGENS(C#) - LANDING PAGE\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\ref\destinos.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\appsettings.Development.json
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\appsettings.json
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\destinos.exe
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\destinos.deps.json
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\destinos.runtimeconfig.json
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\destinos.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\destinos.pdb
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Humanizer.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\MySqlConnector.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\System.CodeDom.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.csproj.AssemblyReference.cache
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.AssemblyInfoInputs.cache
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.AssemblyInfo.cs
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.csproj.CoreCompileInputs.cache
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.MvcApplicationPartsAssemblyInfo.cs
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.MvcApplicationPartsAssemblyInfo.cache
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.sourcelink.json
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets.build.json
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets.development.json
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets\msbuild.destinos.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets\msbuild.build.destinos.props
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.destinos.props
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.destinos.props
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\scopedcss\bundle\destinos.styles.css
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.csproj.CopyComplete
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\refint\destinos.dll
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.pdb
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\destinos.genruntimeconfig.cache
+D:\Meu_Cantinho\Projetos\vsl-viagens-react-csharp\backend\destinos\obj\Debug\net8.0\ref\destinos.dll

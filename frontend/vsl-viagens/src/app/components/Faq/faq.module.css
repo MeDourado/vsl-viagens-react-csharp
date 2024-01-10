@@ -1,0 +1,42 @@
+
+.faqContainer {
+    background-color: white;
+    color: rgb(18, 16, 14); 
+    padding: 10px 25px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin-bottom: 40px ; 
+  }
+  
+  .faqList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .faqItem {
+    margin-bottom: 10px;
+  }
+  
+  .faqQuestionLabel {
+    cursor: pointer;
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 0;
+    border-bottom: 1px solid #bfbfbf;  
+  }
+  
+  .faqAnswer {
+    display: none;
+    padding-top: 10px;
+    padding-left: 20px; 
+  }
+  
+  .faqQuestion:checked + .faqQuestionLabel + .faqAnswer {
+    display: block;
+  }
+  
+  .faqQuestion {
+    display: none;
+  }
+  

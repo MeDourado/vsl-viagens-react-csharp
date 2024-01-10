@@ -1,0 +1,39 @@
+
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  
+}
+
+
+*:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border: 1px solid #fff212;
+}
+
+
+input.form-control:focus {
+  border: 1px solid #fff212 !important;
+
+}
+
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+

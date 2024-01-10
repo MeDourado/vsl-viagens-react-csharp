@@ -1,0 +1,31 @@
+.estilocard {
+    transition: transform 0.3s ease-in-out; 
+    box-sizing: border-box;
+    margin-bottom: 40px; 
+
+  }
+
+  .estilocard h5 {
+    margin-top: 15px;
+  }
+  
+  .estilocard img {
+    object-fit: cover; 
+  }
+
+.estilocard:hover {
+    transform: scale(1.04);
+}
+
+
+.botaovisualizar {
+    background-color:  rgb(18, 16, 14);
+    color:  #fff212;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.botaovisualizar:hover {
+    background-color: #fff212;
+    color: rgb(18, 16, 14);
+}

@@ -1,0 +1,6 @@
+@destinos_HostAddress = http://localhost:5264
+
+GET {{destinos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

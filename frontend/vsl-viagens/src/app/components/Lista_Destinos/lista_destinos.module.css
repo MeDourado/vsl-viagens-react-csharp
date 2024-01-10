@@ -1,0 +1,12 @@
+.estilo_lista {
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 8px;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+}
+
+.estilo_lista h2 {
+    text-align: center;
+}

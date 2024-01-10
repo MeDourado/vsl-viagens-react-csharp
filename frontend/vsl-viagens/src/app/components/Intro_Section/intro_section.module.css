@@ -1,0 +1,34 @@
+.estilo_intro_sessao {
+    margin: 120px 0;
+    align-items: center;
+}
+
+.estilo_intro_sessao span {
+    background-color: #fff212;
+    padding: 0 5px;
+    line-height:1.4;
+
+}
+.estilo_intro_sessao h2 {
+    font-size: xx-large;
+    padding-bottom: 10px;
+}
+
+
+@media only screen and (max-width: 756px) {
+    .estilo_intro_sessao {
+        margin: 170px 0;
+    }
+ 
+   }
+
+   @media only screen and (max-width: 540px) {
+
+    .estilo_intro_sessao {
+        margin: 290px 0;
+        text-align: center;
+
+    }
+ 
+
+   }
