@@ -25,7 +25,7 @@ A API C# inclui uma tabela de destinos e um controlador `GET` para listar todos 
 
 Clone o repositório
   ```
-git clone https://github.com/seu-usuario/vslviagens-frontend.git
+git clone git@github.com:MeDourado/vsl-viagens-react-csharp.git
 ```
 
 ### Backend (C#)
